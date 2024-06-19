@@ -13,6 +13,8 @@ The data is in Excel xls.file. It is a **_dummy_** data, gotten on the internet 
 
 The dataset can be downloaded [Here](https://github.com/Rolakamin/Project_Documentation/blob/main/Dataset.xlsx)
 
+The cleaned dataset can be downloaded [Here](https://github.com/Rolakamin/Project_Documentation/blob/main/Cleaned%20Data.xlsx)
+
 ## Tool(s)
 Excel
 
