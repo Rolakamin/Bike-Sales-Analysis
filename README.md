@@ -9,7 +9,9 @@ Businesses across industries always seek to gain insight into consumer behavior 
 Bike Industry is known for its diversity and innovation. Hence, there is a need to understand the underlying factors that drive purchasing decisions so as to be able to make data-driven recommendations which would attract prospective buyers and retain the existing customers.
 
 ## Data Source
-The data is in Excel xls.file. It is a **_dummy_** data, gotten on the internet and downloaded. It contains 1027 rows and 13 columns
+The data is in Excel xls.file. It is a **_dummy_** data, gotten on the internet and downloaded. It contains 1027 rows and 13 columns.
+
+The dataset can be downloaded [Here](https://github.com/Rolakamin/Project_Documentation/blob/main/Dataset.xlsx)
 
 ## Tool(s)
 Excel
