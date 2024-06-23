@@ -37,3 +37,7 @@ Excel
 -  Are married individuals with children more likely to purchase bikes compared to single individuals without children?
 -  What are the characteristics of individuals who are more likely to purchase bikes?
 
+## Data Analysis and Visualization
+
+![](Dashboard.png)
+
