@@ -41,3 +41,16 @@ Excel
 
 ![](Dashboard.png)
 
+## Results/Findings
+
+The analysis results as observed from the dashboard are summarized as follows:
+1. Men earned more on average, with a salary of $60,124 compared to women, whose average salary was $55,774. Hence, men purchased more bikes, possibly due to their higher income.
+2. Young adults(age <45) made the highest bike purchases, indicating a strong preference for bikes among them.
+   Senior adults (age >65) bought the least number of bikes, indicating lower purchasing power compared to other age groups.
+3. The professionals purchased the highest number of bikes compared to other occupations, highlighting their significant contribution to overall sales.
+4. Sales were highest in North America Region. This indicates a strong market performance in that area .
+5. The shorter the commute distance, the higher the number of bikes purchased. Conversely, the longer the commute distance, the fewer the number of bikes purchased.
+6. Single individuals with children and married individuals with children made more bike purchases than those without children, regardless of marital status.
+
+
+
