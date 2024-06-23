@@ -3,6 +3,8 @@
 ![](Bike2.png)
 ___
 
+## Table of Contents
+-[Recommendations](#recommendations)
 ## Introduction
 This Project provides insights into the sales performance of a bike Company. The dataset is centered on demographic characteristics of the consumer and the impact on bike purchasing behaviour.
 Businesses across industries always seek to gain insight into consumer behavior so as to stay competitive and meet evolving consumer needs. Bike industry is no exception. 
@@ -51,6 +53,10 @@ The analysis results as observed from the dashboard are summarized as follows:
 4. Sales were highest in North America Region. This indicates a strong market performance in that area .
 5. The shorter the commute distance, the higher the number of bikes purchased. Conversely, the longer the commute distance, the fewer the number of bikes purchased.
 6. Single individuals with children and married individuals with children made more bike purchases than those without children, regardless of marital status.
+
+## Recommendations
+
+Based on the analysis, we recommend the following actions:
 
 
 
