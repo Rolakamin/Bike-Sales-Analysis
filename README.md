@@ -17,6 +17,8 @@ ___
 
 -[Data Analysis and Visualization](#data-analysis-and-visualization)
 
+-[Results/Findings](#resultsfindings)
+
 ## Introduction
 This Project provides insights into the sales performance of a bike Company. The dataset is centered on demographic characteristics of the consumer and the impact on bike purchasing behaviour.
 Businesses across industries always seek to gain insight into consumer behavior so as to stay competitive and meet evolving consumer needs. Bike industry is no exception. 
