@@ -9,7 +9,7 @@ ___
 
 -[Data Source](#data-source)
 
--[Tool(s)](#tool(s))
+-[Tool(s)](#tools)
 
 -[Excel Skills Applied](#excel-skills-applied)
 
