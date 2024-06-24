@@ -72,7 +72,22 @@ The analysis results as observed from the dashboard are summarized as follows:
 
 ## Recommendations
 
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 
+- Develop high-end bike models and accessories targeted primarily at men with higher disposable incomes. In addition,offer financing or instalment plans to make bikes more affordable for customers with lower incomes.
+
+- Target marketing campaigns to single individuals and married couples with children and emphasise the benefits of biking for family activities and health. Do more promotion of bikes suitable for families both online and in-store.
+
+- Focus more on marketing in the North American region, using promotions and advertisements that match local preferences and trends.
+
+- Develop marketing strategies that appeal to young adults and emphasize biking as an exercise that helps in keeping fit.
+
+- Create attractive promotional offers aimed at professionals and emphasize biking as a convenient commuting option.
+
+- Set up a robust customer feedback system to gather input and continuously improve products and services.
+
+- Periodically analyze data to track sales trends and customer preferences, and use the results to adjust marketing and product strategies.
+
+- Use digital marketing channels like social media, email, and search engine optimization(SEO) to increase brand visibility and reach a broader audience.
 
 
