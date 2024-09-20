@@ -57,7 +57,7 @@ Excel
 
 ## Data Analysis and Visualization
 
-![](Bike_Sales ,,Dashboard.png)
+![](Bike_Sales_Dashboard.png)
 
 ## Results/Findings
 
