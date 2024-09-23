@@ -57,7 +57,7 @@ Excel
 
 ## Data Analysis and Visualization
 
-
+![](https://github.com/Rolakamin/Bike-Sales-Analysis/blob/main/Bike_Sales_%20Dashboard.png)
 
 ## Results/Findings
 
