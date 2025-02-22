@@ -1,4 +1,4 @@
-# Demographic Insights and Purchase Pattern in the Bike Market
+# Bike Sales Analysis
 
 ![](Bike2.png)
 ___
